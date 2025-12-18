@@ -19,7 +19,7 @@ export default {
       color: {
         blue : "#696fc7",
         fadedblue: "#a7aae1",
-        maroon: "f5d3c4",
+        maroon: "#f5d3c4",
         pink: "#f2aebb",
       }
     },
